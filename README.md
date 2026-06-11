@@ -1,4 +1,4 @@
-# Laboratório de GitHub
+# Atividade de Aula
 
 **Nome:** Mateus Rostirolla Gewehr
 **Curso:** Ciência da Computação
