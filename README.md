@@ -1,4 +1,4 @@
-# Laboratório de GitHub
+# Aula Prática
 
 **Nome:** Mateus Rostirolla Gewehr
 **Curso:** Ciência da Computação
