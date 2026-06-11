@@ -1,4 +1,4 @@
-# Atividade de Aula
+# Aula Prática
 
 **Nome:** Mateus Rostirolla Gewehr
 **Curso:** Ciência da Computação
